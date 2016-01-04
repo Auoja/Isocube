@@ -2,6 +2,8 @@
 
 Isocube.js is a pixel art cube (rectangular cuboid) generator.
 
+![Example result](/../images/images/example.png?raw=true)
+
 ##Usage
 
 ```javascript
